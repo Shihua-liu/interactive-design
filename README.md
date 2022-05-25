@@ -9,3 +9,6 @@
 ### Styleboard: ForFighters
 ### Wireframe: ForFighters
 ### Design: ForFighters
+### Userstories: https://trello.com/b/xPD4qlpC/brazilian-jiu-jiutsu ForFighters
+### Usertesten: ForFighters
+### Bedrijfsonderzoek: ForFighters
