@@ -9,8 +9,8 @@
 ##### Styleboard: ForFighters
 ##### Wireframe: ForFighters
 ##### Design: ForFighters
-##### Userstories: [ForFighters] (https://trello.com/b/xPD4qlpC/brazilian-jiu-jiutsu )
+##### Userstories: [ForFighters](https://trello.com/b/xPD4qlpC/brazilian-jiu-jiutsu )
 ##### Usertesten: ForFighters
 ##### Bedrijfsonderzoek: ForFighters
-##### Code: [ForFighters] (https://github.com/RaphaelRebel/ForFighters) 
+##### Code: [ForFighters](https://github.com/RaphaelRebel/ForFighters) 
 ##### link naar live website: http://forfighters.student-sd.site/
